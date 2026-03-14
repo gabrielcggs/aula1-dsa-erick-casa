@@ -5,6 +5,6 @@ int main(){
     printf("\n");
     printf("Feito em casa");
     printf("Feito em casa 2");
-    teste 
+    teste push --- teste pull
     return 0;
 }
